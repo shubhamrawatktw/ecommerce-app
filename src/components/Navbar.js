@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-// import logo from '../assets/logo.svg'
-import logo from "../assets/logo2.jpg"
+import logo from '../assets/logo.svg'
+// import logo from "../assets/logo2.jpg"
 import { FaBars } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 import { links } from '../utils/constants'
