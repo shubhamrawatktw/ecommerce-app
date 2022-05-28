@@ -76,7 +76,7 @@ useEffect(()=>{
     </ProductsContext.Provider>
   )
 }
-// make sure use
+
 export const useProductsContext = () => {
   return useContext(ProductsContext)
 }
