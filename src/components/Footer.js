@@ -18,6 +18,7 @@ const Wrapper = styled.footer`
   align-items: center;
   background: var(--clr-black);
   text-align: center;
+  /* margin-bottom:0; */
   span {
     color: var(--clr-primary-5);
   }
